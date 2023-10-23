@@ -1,0 +1,27 @@
+/*                                      // Comment block to show author
+ *  FileName.cpp                        // File name
+ *  Created on: mm/dd/yyyy.             // Date of creation
+ *  Author: Name Surname (uXXXXXXXX)    // Author name and student number
+ */
+
+#include "../public/ClassHeader.h"     // Include statements | Always use relative paths
+
+/**                                     // Comment block to explain function
+ * @brief This is a function that does something
+ * @param ParameterName - This is a parameter that does something
+ * @return This is a return value that does something
+ */
+void FunctionName(int ParameterName) {
+    if (condition) {
+        // Code
+    } else {                            // Else on its own line
+        // Code
+    }
+}
+
+/*
+Ordering within documentation should be:
+- brief
+- Parameters
+- Return
+*/
