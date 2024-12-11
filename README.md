@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Tinashe-Austin
-- 👀 I’m interested in all things code
-- 🌱 I’m currently learning a lot :)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m currently working on a portfolio website
+  learning about DevOps
+  Intereted in AI and Machine Learning
+
+
+
+
+- 📫 How to reach me tinashe.austin@tuks.co.za
 
 <!---
 Tinashe-Austin/Tinashe-Austin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
